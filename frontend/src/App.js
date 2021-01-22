@@ -14,7 +14,7 @@ class App extends Component {
       <div>
 
         <nav>
-          <Nav className="mr-auto">
+          <Nav className="justify-content-end">
             <a href="/">Home</a>
             <a href="/about">About</a>
             <a href="https://drive.google.com/file/d/1Yv3Sv1Lipg6Z9bGs07EiqibiMwmpngTg/view?usp=sharing" target="_blank_">Resume</a>

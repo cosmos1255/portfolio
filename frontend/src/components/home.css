@@ -1,6 +1,6 @@
 nav {
     background-color:#bbbcbf;
-    width: 100%;
+    width: 80%;
     height: 50px;
     float:none;
     font-size: 17px;
@@ -19,13 +19,18 @@ nav a:hover {
 }
 
 header {
+    padding-left: 100px;
+    padding-right: 100px
+}
+
+.header {
     background-color:#4599ff;
-    padding: 150px;
-    height: 400px;
-    text-align:center;  
+    text-align: center;
+    height: 350px;  
+    padding: 100px;
     opacity: 80%;
 }
-header h1 {
+.header h1 {
     font-size:60px;
     color: #161a1c;
 }

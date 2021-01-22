@@ -13,8 +13,8 @@ class Home extends Component {
         return (
 
             <div>
-                <header class="page-header">
-                    <div>
+                <header>
+                    <div className="header">
                         <h1>David Eyrich</h1>
                     </div>
                 </header>
